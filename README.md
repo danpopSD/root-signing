@@ -28,6 +28,8 @@ If you are a verifier, follow instructions at [VERIFIER.md](VERIFIER.md).
 ### Acknowledgements
 Special thanks to Dan Lorenc, Trishank Kuppusamy, Marina Moore, Santiago Torres-Arias, and the whole SigStore community! 
 
+[Key Signing Ceremony in CloudNative.tv](https://youtu.be/GEuFsc8Zm9U)
+
 
 
 
